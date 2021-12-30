@@ -1,7 +1,5 @@
 # lem-in
 
-### Authors: Rik0 and Alika96
-
 
 ## How to run
 * Type  **go run. [name_of_file]**
