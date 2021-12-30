@@ -9,7 +9,7 @@
 * Or type **/bin/bash test.sh** for showing the result of every example
 
 ## Algorithm 
-1. **Breadth First Search**(BFS) and **Dikjstra's** algoritmhs were usdd for finding all the shortest paths in a graph.
+1. **Breadth First Search**(BFS) and **Dikjstra's** algoritmhs were used for finding all the shortest paths in a graph.
 2. Then **Bhandari** algorithm was used, which is based on **Suurballe's** original algorithm, for finding edge-disjoint paths through a graph.
 3. After that knowing the paths the program decides in which path ants will go through.
 4. Then the program decides which algorithm is faster and outputs the answer.
